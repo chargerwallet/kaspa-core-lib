@@ -1,0 +1,13 @@
+benchmark/
+test/
+docs/
+.github/
+.gitignore
+.eslintrc.json
+.coveralls.yml
+.editorconfig
+.travis.yml
+.zuul.yml
+bower.json
+gulpfile.js
+karma.conf.js
